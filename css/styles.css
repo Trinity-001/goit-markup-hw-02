@@ -106,6 +106,7 @@ color: #404bbf;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #fff;
 }
 
@@ -170,6 +171,7 @@ color: #404bbf;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
   color: #2e2f42;
 }
 
@@ -214,6 +216,7 @@ color: #404bbf;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
   color: #2e2f42;
 }
 
